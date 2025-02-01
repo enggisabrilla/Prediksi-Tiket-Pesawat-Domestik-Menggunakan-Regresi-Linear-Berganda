@@ -8,3 +8,14 @@ Penelitian ini bertujuan memprediksi harga tiket pesawat domestik pada rute Sura
 
 ## Pengumpulan Data
 Data dalam penelitian ini diperoleh dari proses scraping dari web Traveloka selama 2 bulan yaitu pada tanggal 23 Januari – 23 Maret di hari senin-jumat. 
+
+## Kesimpulan Umum:
+
+•	Model regresi linier berganda yang digunakan cukup baik dalam memprediksi harga dengan R2 Score sebesar 81.95%.
+
+•	Bagasi memiliki pengaruh yang paling kuat terhadap harga, sementara lama_perjalanan juga berpengaruh tetapi dalam arah negatif.
+
+•	Tidak ada masalah serius pada autokorelasi, tetapi potensi multikolinearitas pada variabel bagasi perlu diperhatikan.
+
+•	Hasil uji statistik menunjukkan bahwa model signifikan secara keseluruhan, dan variabel independen secara parsial memiliki hubungan yang bermakna dengan variabel target.
+
